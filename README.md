@@ -33,5 +33,3 @@
 - [x]  Implement [DDD Pattern]([https://khalilstemmler.com/articles/categories/domain-driven-design/](https://khalilstemmler.com/articles/categories/domain-driven-design/))
 - [x]  Implement Unit Testing
 
-## Notes
-- Feel free to add some structure or plugins
